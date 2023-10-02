@@ -1,0 +1,157 @@
+Line,price,point,sport_title,Time_of_Kickoff,home_team,away_team,bookmakers.title,bookmakers.markets.key,bookmakers.markets.last_update
+Memphis Tigers,-105,-14.5,NCAAF,2023-09-14 19:30:00-04:00,Memphis Tigers,Navy Midshipmen,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Navy Midshipmen,-115,14.5,NCAAF,2023-09-14 19:30:00-04:00,Memphis Tigers,Navy Midshipmen,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,47.0,NCAAF,2023-09-14 19:30:00-04:00,Memphis Tigers,Navy Midshipmen,DraftKings,totals,2023-09-12 12:20:42-04:00
+Army Black Knights,-110,9.0,NCAAF,2023-09-15 19:00:00-04:00,UTSA Roadrunners,Army Black Knights,DraftKings,spreads,2023-09-12 12:20:42-04:00
+UTSA Roadrunners,-110,-9.0,NCAAF,2023-09-15 19:00:00-04:00,UTSA Roadrunners,Army Black Knights,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,45.5,NCAAF,2023-09-15 19:00:00-04:00,UTSA Roadrunners,Army Black Knights,DraftKings,totals,2023-09-12 12:20:42-04:00
+Maryland Terrapins,-108,-14.5,NCAAF,2023-09-15 19:00:00-04:00,Maryland Terrapins,Virginia Cavaliers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Virginia Cavaliers,-112,14.5,NCAAF,2023-09-15 19:00:00-04:00,Maryland Terrapins,Virginia Cavaliers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-108,49.5,NCAAF,2023-09-15 19:00:00-04:00,Maryland Terrapins,Virginia Cavaliers,DraftKings,totals,2023-09-12 12:20:42-04:00
+Air Force Falcons,-110,-10.0,NCAAF,2023-09-15 20:00:00-04:00,Air Force Falcons,Utah State Aggies,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Utah State Aggies,-110,10.0,NCAAF,2023-09-15 20:00:00-04:00,Air Force Falcons,Utah State Aggies,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,47.0,NCAAF,2023-09-15 20:00:00-04:00,Air Force Falcons,Utah State Aggies,DraftKings,totals,2023-09-12 12:20:42-04:00
+Boston College Eagles,-110,25.5,NCAAF,2023-09-16 12:00:00-04:00,Boston College Eagles,Florida State Seminoles,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Florida State Seminoles,-110,-25.5,NCAAF,2023-09-16 12:00:00-04:00,Boston College Eagles,Florida State Seminoles,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,49.0,NCAAF,2023-09-16 12:00:00-04:00,Boston College Eagles,Florida State Seminoles,DraftKings,totals,2023-09-12 12:20:42-04:00
+Buffalo Bulls,-110,3.5,NCAAF,2023-09-16 12:00:00-04:00,Buffalo Bulls,Liberty Flames,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Liberty Flames,-110,-3.5,NCAAF,2023-09-16 12:00:00-04:00,Buffalo Bulls,Liberty Flames,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,55.0,NCAAF,2023-09-16 12:00:00-04:00,Buffalo Bulls,Liberty Flames,DraftKings,totals,2023-09-12 12:20:42-04:00
+Georgia Southern Eagles,-110,19.0,NCAAF,2023-09-16 12:00:00-04:00,Wisconsin Badgers,Georgia Southern Eagles,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Wisconsin Badgers,-110,-19.0,NCAAF,2023-09-16 12:00:00-04:00,Wisconsin Badgers,Georgia Southern Eagles,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,63.5,NCAAF,2023-09-16 12:00:00-04:00,Wisconsin Badgers,Georgia Southern Eagles,DraftKings,totals,2023-09-12 12:20:42-04:00
+Illinois Fighting Illini,-110,14.5,NCAAF,2023-09-16 12:00:00-04:00,Illinois Fighting Illini,Penn State Nittany Lions,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Penn State Nittany Lions,-110,-14.5,NCAAF,2023-09-16 12:00:00-04:00,Illinois Fighting Illini,Penn State Nittany Lions,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,48.0,NCAAF,2023-09-16 12:00:00-04:00,Illinois Fighting Illini,Penn State Nittany Lions,DraftKings,totals,2023-09-12 12:20:42-04:00
+Indiana Hoosiers,-110,10.0,NCAAF,2023-09-16 12:00:00-04:00,Indiana Hoosiers,Louisville Cardinals,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Louisville Cardinals,-110,-10.0,NCAAF,2023-09-16 12:00:00-04:00,Indiana Hoosiers,Louisville Cardinals,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,52.0,NCAAF,2023-09-16 12:00:00-04:00,Indiana Hoosiers,Louisville Cardinals,DraftKings,totals,2023-09-12 12:20:42-04:00
+Iowa State Cyclones,-110,-2.5,NCAAF,2023-09-16 12:00:00-04:00,Ohio Bobcats,Iowa State Cyclones,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Ohio Bobcats,-110,2.5,NCAAF,2023-09-16 12:00:00-04:00,Ohio Bobcats,Iowa State Cyclones,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,44.5,NCAAF,2023-09-16 12:00:00-04:00,Ohio Bobcats,Iowa State Cyclones,DraftKings,totals,2023-09-12 12:20:42-04:00
+Kansas State Wildcats,-110,-4.5,NCAAF,2023-09-16 12:00:00-04:00,Missouri Tigers,Kansas State Wildcats,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Missouri Tigers,-110,4.5,NCAAF,2023-09-16 12:00:00-04:00,Missouri Tigers,Kansas State Wildcats,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,49.0,NCAAF,2023-09-16 12:00:00-04:00,Missouri Tigers,Kansas State Wildcats,DraftKings,totals,2023-09-12 12:20:42-04:00
+LSU Tigers,-108,-10.0,NCAAF,2023-09-16 12:00:00-04:00,Mississippi State Bulldogs,LSU Tigers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Mississippi State Bulldogs,-112,10.0,NCAAF,2023-09-16 12:00:00-04:00,Mississippi State Bulldogs,LSU Tigers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,53.5,NCAAF,2023-09-16 12:00:00-04:00,Mississippi State Bulldogs,LSU Tigers,DraftKings,totals,2023-09-12 12:20:42-04:00
+Old Dominion Monarchs,-112,14.0,NCAAF,2023-09-16 12:00:00-04:00,Old Dominion Monarchs,Wake Forest Demon Deacons,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Wake Forest Demon Deacons,-108,-14.0,NCAAF,2023-09-16 12:00:00-04:00,Old Dominion Monarchs,Wake Forest Demon Deacons,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-112,61.5,NCAAF,2023-09-16 12:00:00-04:00,Old Dominion Monarchs,Wake Forest Demon Deacons,DraftKings,totals,2023-09-12 12:20:42-04:00
+Eastern Michigan Eagles,-110,-9.5,NCAAF,2023-09-16 14:00:00-04:00,Eastern Michigan Eagles,UMass Minutemen,DraftKings,spreads,2023-09-12 12:20:42-04:00
+UMass Minutemen,-110,9.5,NCAAF,2023-09-16 14:00:00-04:00,Eastern Michigan Eagles,UMass Minutemen,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,52.5,NCAAF,2023-09-16 14:00:00-04:00,Eastern Michigan Eagles,UMass Minutemen,DraftKings,totals,2023-09-12 12:20:42-04:00
+Central Michigan Chippewas,-110,34.0,NCAAF,2023-09-16 14:30:00-04:00,Notre Dame Fighting Irish,Central Michigan Chippewas,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Notre Dame Fighting Irish,-110,-34.0,NCAAF,2023-09-16 14:30:00-04:00,Notre Dame Fighting Irish,Central Michigan Chippewas,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,54.5,NCAAF,2023-09-16 14:30:00-04:00,Notre Dame Fighting Irish,Central Michigan Chippewas,DraftKings,totals,2023-09-12 12:20:42-04:00
+Alabama Crimson Tide,-110,-32.0,NCAAF,2023-09-16 15:30:00-04:00,South Florida Bulls,Alabama Crimson Tide,DraftKings,spreads,2023-09-12 12:20:42-04:00
+South Florida Bulls,-110,32.0,NCAAF,2023-09-16 15:30:00-04:00,South Florida Bulls,Alabama Crimson Tide,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,61.5,NCAAF,2023-09-16 15:30:00-04:00,South Florida Bulls,Alabama Crimson Tide,DraftKings,totals,2023-09-12 12:20:42-04:00
+Appalachian State Mountaineers,-110,-9.5,NCAAF,2023-09-16 15:30:00-04:00,Appalachian State Mountaineers,East Carolina Pirates,DraftKings,spreads,2023-09-12 12:20:42-04:00
+East Carolina Pirates,-110,9.5,NCAAF,2023-09-16 15:30:00-04:00,Appalachian State Mountaineers,East Carolina Pirates,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,49.5,NCAAF,2023-09-16 15:30:00-04:00,Appalachian State Mountaineers,East Carolina Pirates,DraftKings,totals,2023-09-12 12:20:42-04:00
+Duke Blue Devils,-110,-18.5,NCAAF,2023-09-16 15:30:00-04:00,Duke Blue Devils,Northwestern Wildcats,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Northwestern Wildcats,-110,18.5,NCAAF,2023-09-16 15:30:00-04:00,Duke Blue Devils,Northwestern Wildcats,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,48.5,NCAAF,2023-09-16 15:30:00-04:00,Duke Blue Devils,Northwestern Wildcats,DraftKings,totals,2023-09-12 12:20:42-04:00
+Florida International Panthers,-110,8.5,NCAAF,2023-09-16 15:30:00-04:00,UConn Huskies,Florida International Panthers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+UConn Huskies,-110,-8.5,NCAAF,2023-09-16 15:30:00-04:00,UConn Huskies,Florida International Panthers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,42.5,NCAAF,2023-09-16 15:30:00-04:00,UConn Huskies,Florida International Panthers,DraftKings,totals,2023-09-12 12:20:42-04:00
+Georgia Bulldogs,-110,-27.5,NCAAF,2023-09-16 15:30:00-04:00,Georgia Bulldogs,South Carolina Gamecocks,DraftKings,spreads,2023-09-12 12:20:42-04:00
+South Carolina Gamecocks,-110,27.5,NCAAF,2023-09-16 15:30:00-04:00,Georgia Bulldogs,South Carolina Gamecocks,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,54.5,NCAAF,2023-09-16 15:30:00-04:00,Georgia Bulldogs,South Carolina Gamecocks,DraftKings,totals,2023-09-12 12:20:42-04:00
+Iowa Hawkeyes,-110,-28.5,NCAAF,2023-09-16 15:30:00-04:00,Iowa Hawkeyes,Western Michigan Broncos,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Western Michigan Broncos,-110,28.5,NCAAF,2023-09-16 15:30:00-04:00,Iowa Hawkeyes,Western Michigan Broncos,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,43.0,NCAAF,2023-09-16 15:30:00-04:00,Iowa Hawkeyes,Western Michigan Broncos,DraftKings,totals,2023-09-12 12:20:42-04:00
+Minnesota Golden Gophers,-105,7.0,NCAAF,2023-09-16 15:30:00-04:00,North Carolina Tar Heels,Minnesota Golden Gophers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+North Carolina Tar Heels,-115,-7.0,NCAAF,2023-09-16 15:30:00-04:00,North Carolina Tar Heels,Minnesota Golden Gophers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,50.0,NCAAF,2023-09-16 15:30:00-04:00,North Carolina Tar Heels,Minnesota Golden Gophers,DraftKings,totals,2023-09-12 12:20:42-04:00
+Oklahoma Sooners,-110,-27.5,NCAAF,2023-09-16 15:30:00-04:00,Tulsa Golden Hurricane,Oklahoma Sooners,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Tulsa Golden Hurricane,-110,27.5,NCAAF,2023-09-16 15:30:00-04:00,Tulsa Golden Hurricane,Oklahoma Sooners,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,60.0,NCAAF,2023-09-16 15:30:00-04:00,Tulsa Golden Hurricane,Oklahoma Sooners,DraftKings,totals,2023-09-12 12:20:42-04:00
+Oregon State Beavers,-110,-24.5,NCAAF,2023-09-16 15:30:00-04:00,Oregon State Beavers,San Diego State Aztecs,DraftKings,spreads,2023-09-12 12:20:42-04:00
+San Diego State Aztecs,-110,24.5,NCAAF,2023-09-16 15:30:00-04:00,Oregon State Beavers,San Diego State Aztecs,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,48.5,NCAAF,2023-09-16 15:30:00-04:00,Oregon State Beavers,San Diego State Aztecs,DraftKings,totals,2023-09-12 12:20:42-04:00
+Ohio State Buckeyes,-110,-28.0,NCAAF,2023-09-16 16:00:00-04:00,Ohio State Buckeyes,Western Kentucky Hilltoppers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Western Kentucky Hilltoppers,-110,28.0,NCAAF,2023-09-16 16:00:00-04:00,Ohio State Buckeyes,Western Kentucky Hilltoppers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,64.0,NCAAF,2023-09-16 16:00:00-04:00,Ohio State Buckeyes,Western Kentucky Hilltoppers,DraftKings,totals,2023-09-12 12:20:42-04:00
+Southern Mississippi Golden Eagles,-110,12.5,NCAAF,2023-09-16 16:00:00-04:00,Southern Mississippi Golden Eagles,Tulane Green Wave,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Tulane Green Wave,-110,-12.5,NCAAF,2023-09-16 16:00:00-04:00,Southern Mississippi Golden Eagles,Tulane Green Wave,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,50.5,NCAAF,2023-09-16 16:00:00-04:00,Southern Mississippi Golden Eagles,Tulane Green Wave,DraftKings,totals,2023-09-12 12:20:42-04:00
+Texas A&M Aggies,-110,-36.0,NCAAF,2023-09-16 16:00:00-04:00,Texas A&M Aggies,UL Monroe Warhawks,DraftKings,spreads,2023-09-12 12:20:42-04:00
+UL Monroe Warhawks,-110,36.0,NCAAF,2023-09-16 16:00:00-04:00,Texas A&M Aggies,UL Monroe Warhawks,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,53.5,NCAAF,2023-09-16 16:00:00-04:00,Texas A&M Aggies,UL Monroe Warhawks,DraftKings,totals,2023-09-12 12:20:42-04:00
+Michigan State Spartans,-110,16.0,NCAAF,2023-09-16 17:00:00-04:00,Michigan State Spartans,Washington Huskies,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Washington Huskies,-110,-16.0,NCAAF,2023-09-16 17:00:00-04:00,Michigan State Spartans,Washington Huskies,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,58.0,NCAAF,2023-09-16 17:00:00-04:00,Michigan State Spartans,Washington Huskies,DraftKings,totals,2023-09-12 12:20:42-04:00
+Charlotte 49ers,-110,7.5,NCAAF,2023-09-16 18:00:00-04:00,Charlotte 49ers,Georgia State Panthers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Georgia State Panthers,-110,-7.5,NCAAF,2023-09-16 18:00:00-04:00,Charlotte 49ers,Georgia State Panthers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,54.5,NCAAF,2023-09-16 18:00:00-04:00,Charlotte 49ers,Georgia State Panthers,DraftKings,totals,2023-09-12 12:20:42-04:00
+Cincinnati Bearcats,-105,-14.5,NCAAF,2023-09-16 19:00:00-04:00,Cincinnati Bearcats,Miami (OH) RedHawks,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Miami (OH) RedHawks,-115,14.5,NCAAF,2023-09-16 19:00:00-04:00,Cincinnati Bearcats,Miami (OH) RedHawks,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,47.0,NCAAF,2023-09-16 19:00:00-04:00,Cincinnati Bearcats,Miami (OH) RedHawks,DraftKings,totals,2023-09-12 12:20:42-04:00
+Florida Gators,-110,6.5,NCAAF,2023-09-16 19:00:00-04:00,Florida Gators,Tennessee Volunteers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Tennessee Volunteers,-110,-6.5,NCAAF,2023-09-16 19:00:00-04:00,Florida Gators,Tennessee Volunteers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,58.5,NCAAF,2023-09-16 19:00:00-04:00,Florida Gators,Tennessee Volunteers,DraftKings,totals,2023-09-12 12:20:42-04:00
+James Madison Dukes,-110,2.5,NCAAF,2023-09-16 19:00:00-04:00,Troy Trojans,James Madison Dukes,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Troy Trojans,-110,-2.5,NCAAF,2023-09-16 19:00:00-04:00,Troy Trojans,James Madison Dukes,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,48.0,NCAAF,2023-09-16 19:00:00-04:00,Troy Trojans,James Madison Dukes,DraftKings,totals,2023-09-12 12:20:42-04:00
+Louisiana Tech Bulldogs,-110,-4.5,NCAAF,2023-09-16 19:00:00-04:00,Louisiana Tech Bulldogs,North Texas Mean Green,DraftKings,spreads,2023-09-12 12:20:42-04:00
+North Texas Mean Green,-110,4.5,NCAAF,2023-09-16 19:00:00-04:00,Louisiana Tech Bulldogs,North Texas Mean Green,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,67.5,NCAAF,2023-09-16 19:00:00-04:00,Louisiana Tech Bulldogs,North Texas Mean Green,DraftKings,totals,2023-09-12 12:20:42-04:00
+Nebraska Cornhuskers,-110,-11.0,NCAAF,2023-09-16 19:00:00-04:00,Nebraska Cornhuskers,Northern Illinois Huskies,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Northern Illinois Huskies,-110,11.0,NCAAF,2023-09-16 19:00:00-04:00,Nebraska Cornhuskers,Northern Illinois Huskies,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,43.0,NCAAF,2023-09-16 19:00:00-04:00,Nebraska Cornhuskers,Northern Illinois Huskies,DraftKings,totals,2023-09-12 12:20:42-04:00
+Oklahoma State Cowboys,-108,-7.0,NCAAF,2023-09-16 19:00:00-04:00,Oklahoma State Cowboys,South Alabama Jaguars,DraftKings,spreads,2023-09-12 12:20:42-04:00
+South Alabama Jaguars,-112,7.0,NCAAF,2023-09-16 19:00:00-04:00,Oklahoma State Cowboys,South Alabama Jaguars,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,47.0,NCAAF,2023-09-16 19:00:00-04:00,Oklahoma State Cowboys,South Alabama Jaguars,DraftKings,totals,2023-09-12 12:20:42-04:00
+San Jose State Spartans,-108,8.0,NCAAF,2023-09-16 19:00:00-04:00,Toledo Rockets,San Jose State Spartans,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Toledo Rockets,-112,-8.0,NCAAF,2023-09-16 19:00:00-04:00,Toledo Rockets,San Jose State Spartans,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,58.5,NCAAF,2023-09-16 19:00:00-04:00,Toledo Rockets,San Jose State Spartans,DraftKings,totals,2023-09-12 12:20:42-04:00
+UNLV Rebels,-110,4.0,NCAAF,2023-09-16 19:00:00-04:00,UNLV Rebels,Vanderbilt Commodores,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Vanderbilt Commodores,-110,-4.0,NCAAF,2023-09-16 19:00:00-04:00,UNLV Rebels,Vanderbilt Commodores,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,60.0,NCAAF,2023-09-16 19:00:00-04:00,UNLV Rebels,Vanderbilt Commodores,DraftKings,totals,2023-09-12 12:20:42-04:00
+Akron Zips,-110,26.0,NCAAF,2023-09-16 19:30:00-04:00,Kentucky Wildcats,Akron Zips,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Kentucky Wildcats,-110,-26.0,NCAAF,2023-09-16 19:30:00-04:00,Kentucky Wildcats,Akron Zips,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,49.5,NCAAF,2023-09-16 19:30:00-04:00,Kentucky Wildcats,Akron Zips,DraftKings,totals,2023-09-12 12:20:42-04:00
+Arkansas Razorbacks,-110,-8.5,NCAAF,2023-09-16 19:30:00-04:00,Arkansas Razorbacks,BYU Cougars,DraftKings,spreads,2023-09-12 12:20:42-04:00
+BYU Cougars,-110,8.5,NCAAF,2023-09-16 19:30:00-04:00,Arkansas Razorbacks,BYU Cougars,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,47.5,NCAAF,2023-09-16 19:30:00-04:00,Arkansas Razorbacks,BYU Cougars,DraftKings,totals,2023-09-12 12:20:42-04:00
+Bowling Green Falcons,-110,39.5,NCAAF,2023-09-16 19:30:00-04:00,Michigan Wolverines,Bowling Green Falcons,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Michigan Wolverines,-110,-39.5,NCAAF,2023-09-16 19:30:00-04:00,Michigan Wolverines,Bowling Green Falcons,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,53.5,NCAAF,2023-09-16 19:30:00-04:00,Michigan Wolverines,Bowling Green Falcons,DraftKings,totals,2023-09-12 12:20:42-04:00
+Georgia Tech Yellow Jackets,-108,19.5,NCAAF,2023-09-16 19:30:00-04:00,Ole Miss Rebels,Georgia Tech Yellow Jackets,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Ole Miss Rebels,-112,-19.5,NCAAF,2023-09-16 19:30:00-04:00,Ole Miss Rebels,Georgia Tech Yellow Jackets,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,63.0,NCAAF,2023-09-16 19:30:00-04:00,Ole Miss Rebels,Georgia Tech Yellow Jackets,DraftKings,totals,2023-09-12 12:20:42-04:00
+Pittsburgh Panthers,-110,-1.0,NCAAF,2023-09-16 19:30:00-04:00,West Virginia Mountaineers,Pittsburgh Panthers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+West Virginia Mountaineers,-110,1.0,NCAAF,2023-09-16 19:30:00-04:00,West Virginia Mountaineers,Pittsburgh Panthers,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,50.5,NCAAF,2023-09-16 19:30:00-04:00,West Virginia Mountaineers,Pittsburgh Panthers,DraftKings,totals,2023-09-12 12:20:42-04:00
+Purdue Boilermakers,-105,2.5,NCAAF,2023-09-16 19:30:00-04:00,Purdue Boilermakers,Syracuse Orange,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Syracuse Orange,-115,-2.5,NCAAF,2023-09-16 19:30:00-04:00,Purdue Boilermakers,Syracuse Orange,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,58.5,NCAAF,2023-09-16 19:30:00-04:00,Purdue Boilermakers,Syracuse Orange,DraftKings,totals,2023-09-12 12:20:42-04:00
+Clemson Tigers,-115,-24.0,NCAAF,2023-09-16 20:00:00-04:00,Clemson Tigers,Florida Atlantic Owls,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Florida Atlantic Owls,-105,24.0,NCAAF,2023-09-16 20:00:00-04:00,Clemson Tigers,Florida Atlantic Owls,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-112,52.0,NCAAF,2023-09-16 20:00:00-04:00,Clemson Tigers,Florida Atlantic Owls,DraftKings,totals,2023-09-12 12:20:42-04:00
+Hawaii Rainbow Warriors,-110,37.5,NCAAF,2023-09-16 20:00:00-04:00,Oregon Ducks,Hawaii Rainbow Warriors,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Oregon Ducks,-110,-37.5,NCAAF,2023-09-16 20:00:00-04:00,Oregon Ducks,Hawaii Rainbow Warriors,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,68.5,NCAAF,2023-09-16 20:00:00-04:00,Oregon Ducks,Hawaii Rainbow Warriors,DraftKings,totals,2023-09-12 12:20:42-04:00
+Houston Cougars,-110,7.5,NCAAF,2023-09-16 20:00:00-04:00,Houston Cougars,TCU Horned Frogs,DraftKings,spreads,2023-09-12 12:20:42-04:00
+TCU Horned Frogs,-110,-7.5,NCAAF,2023-09-16 20:00:00-04:00,Houston Cougars,TCU Horned Frogs,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,64.5,NCAAF,2023-09-16 20:00:00-04:00,Houston Cougars,TCU Horned Frogs,DraftKings,totals,2023-09-12 12:20:42-04:00
+New Mexico Lobos,-110,-1.0,NCAAF,2023-09-16 20:00:00-04:00,New Mexico Lobos,New Mexico State Aggies,DraftKings,spreads,2023-09-12 12:20:42-04:00
+New Mexico State Aggies,-110,1.0,NCAAF,2023-09-16 20:00:00-04:00,New Mexico Lobos,New Mexico State Aggies,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,54.0,NCAAF,2023-09-16 20:00:00-04:00,New Mexico Lobos,New Mexico State Aggies,DraftKings,totals,2023-09-12 12:20:42-04:00
+Texas Longhorns,-110,-29.5,NCAAF,2023-09-16 20:00:00-04:00,Texas Longhorns,Wyoming Cowboys,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Wyoming Cowboys,-110,29.5,NCAAF,2023-09-16 20:00:00-04:00,Texas Longhorns,Wyoming Cowboys,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,48.5,NCAAF,2023-09-16 20:00:00-04:00,Texas Longhorns,Wyoming Cowboys,DraftKings,totals,2023-09-12 12:20:42-04:00
+Colorado Buffaloes,-110,-23.5,NCAAF,2023-09-16 22:00:00-04:00,Colorado Buffaloes,Colorado State Rams,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Colorado State Rams,-110,23.5,NCAAF,2023-09-16 22:00:00-04:00,Colorado Buffaloes,Colorado State Rams,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,59.0,NCAAF,2023-09-16 22:00:00-04:00,Colorado Buffaloes,Colorado State Rams,DraftKings,totals,2023-09-12 12:20:42-04:00
+Arizona State Sun Devils,-105,3.0,NCAAF,2023-09-16 22:30:00-04:00,Arizona State Sun Devils,Fresno State Bulldogs,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Fresno State Bulldogs,-115,-3.0,NCAAF,2023-09-16 22:30:00-04:00,Arizona State Sun Devils,Fresno State Bulldogs,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,51.0,NCAAF,2023-09-16 22:30:00-04:00,Arizona State Sun Devils,Fresno State Bulldogs,DraftKings,totals,2023-09-12 12:20:42-04:00
+Kansas Jayhawks,-110,-28.0,NCAAF,2023-09-16 22:30:00-04:00,Nevada Wolf Pack,Kansas Jayhawks,DraftKings,spreads,2023-09-12 12:20:42-04:00
+Nevada Wolf Pack,-110,28.0,NCAAF,2023-09-16 22:30:00-04:00,Nevada Wolf Pack,Kansas Jayhawks,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-110,59.5,NCAAF,2023-09-16 22:30:00-04:00,Nevada Wolf Pack,Kansas Jayhawks,DraftKings,totals,2023-09-12 12:20:42-04:00
+Arizona Wildcats,-112,-17.0,NCAAF,2023-09-16 23:00:00-04:00,Arizona Wildcats,UTEP Miners,DraftKings,spreads,2023-09-12 12:20:42-04:00
+UTEP Miners,-108,17.0,NCAAF,2023-09-16 23:00:00-04:00,Arizona Wildcats,UTEP Miners,DraftKings,spreads,2023-09-12 12:20:42-04:00
+O/U,-108,56.0,NCAAF,2023-09-16 23:00:00-04:00,Arizona Wildcats,UTEP Miners,DraftKings,totals,2023-09-12 12:20:42-04:00

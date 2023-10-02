@@ -1,0 +1,97 @@
+Line,price,point,sport_title,Time_of_Kickoff,home_team,away_team,bookmakers.title,bookmakers.markets.key,bookmakers.markets.last_update
+New York Giants,-108,10.0,NFL,2023-09-21 20:15:00-04:00,San Francisco 49ers,New York Giants,DraftKings,spreads,2023-09-19 15:33:38-04:00
+San Francisco 49ers,-112,-10.0,NFL,2023-09-21 20:15:00-04:00,San Francisco 49ers,New York Giants,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-108,45.0,NFL,2023-09-21 20:15:00-04:00,San Francisco 49ers,New York Giants,DraftKings,totals,2023-09-19 15:33:38-04:00
+Atlanta Falcons,-102,3.0,NFL,2023-09-24 13:00:00-04:00,Detroit Lions,Atlanta Falcons,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Detroit Lions,-118,-3.0,NFL,2023-09-24 13:00:00-04:00,Detroit Lions,Atlanta Falcons,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-112,46.0,NFL,2023-09-24 13:00:00-04:00,Detroit Lions,Atlanta Falcons,DraftKings,totals,2023-09-19 15:33:38-04:00
+Baltimore Ravens,-110,-7.5,NFL,2023-09-24 13:00:00-04:00,Baltimore Ravens,Indianapolis Colts,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Indianapolis Colts,-110,7.5,NFL,2023-09-24 13:00:00-04:00,Baltimore Ravens,Indianapolis Colts,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,44.0,NFL,2023-09-24 13:00:00-04:00,Baltimore Ravens,Indianapolis Colts,DraftKings,totals,2023-09-19 15:33:38-04:00
+Buffalo Bills,-112,-6.5,NFL,2023-09-24 13:00:00-04:00,Washington Commanders,Buffalo Bills,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Washington Commanders,-108,6.5,NFL,2023-09-24 13:00:00-04:00,Washington Commanders,Buffalo Bills,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,44.5,NFL,2023-09-24 13:00:00-04:00,Washington Commanders,Buffalo Bills,DraftKings,totals,2023-09-19 15:33:38-04:00
+Denver Broncos,-108,6.5,NFL,2023-09-24 13:00:00-04:00,Miami Dolphins,Denver Broncos,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Miami Dolphins,-112,-6.5,NFL,2023-09-24 13:00:00-04:00,Miami Dolphins,Denver Broncos,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-108,48.0,NFL,2023-09-24 13:00:00-04:00,Miami Dolphins,Denver Broncos,DraftKings,totals,2023-09-19 15:33:38-04:00
+Green Bay Packers,-112,-1.5,NFL,2023-09-24 13:00:00-04:00,Green Bay Packers,New Orleans Saints,DraftKings,spreads,2023-09-19 15:33:38-04:00
+New Orleans Saints,-108,1.5,NFL,2023-09-24 13:00:00-04:00,Green Bay Packers,New Orleans Saints,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-105,43.0,NFL,2023-09-24 13:00:00-04:00,Green Bay Packers,New Orleans Saints,DraftKings,totals,2023-09-19 15:33:38-04:00
+Houston Texans,-110,9.5,NFL,2023-09-24 13:00:00-04:00,Jacksonville Jaguars,Houston Texans,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Jacksonville Jaguars,-110,-9.5,NFL,2023-09-24 13:00:00-04:00,Jacksonville Jaguars,Houston Texans,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,43.5,NFL,2023-09-24 13:00:00-04:00,Jacksonville Jaguars,Houston Texans,DraftKings,totals,2023-09-19 15:33:38-04:00
+Los Angeles Chargers,-115,1.0,NFL,2023-09-24 13:00:00-04:00,Minnesota Vikings,Los Angeles Chargers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Minnesota Vikings,-105,-1.0,NFL,2023-09-24 13:00:00-04:00,Minnesota Vikings,Los Angeles Chargers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,54.0,NFL,2023-09-24 13:00:00-04:00,Minnesota Vikings,Los Angeles Chargers,DraftKings,totals,2023-09-19 15:33:38-04:00
+New England Patriots,-115,-2.5,NFL,2023-09-24 13:00:00-04:00,New York Jets,New England Patriots,DraftKings,spreads,2023-09-19 15:33:38-04:00
+New York Jets,-105,2.5,NFL,2023-09-24 13:00:00-04:00,New York Jets,New England Patriots,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,36.5,NFL,2023-09-24 13:00:00-04:00,New York Jets,New England Patriots,DraftKings,totals,2023-09-19 15:33:38-04:00
+Cleveland Browns,-110,-3.0,NFL,2023-09-24 13:01:00-04:00,Cleveland Browns,Tennessee Titans,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Tennessee Titans,-110,3.0,NFL,2023-09-24 13:01:00-04:00,Cleveland Browns,Tennessee Titans,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-112,39.5,NFL,2023-09-24 13:01:00-04:00,Cleveland Browns,Tennessee Titans,DraftKings,totals,2023-09-19 15:33:38-04:00
+Carolina Panthers,-115,6.0,NFL,2023-09-24 16:05:00-04:00,Seattle Seahawks,Carolina Panthers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Seattle Seahawks,-105,-6.0,NFL,2023-09-24 16:05:00-04:00,Seattle Seahawks,Carolina Panthers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,42.0,NFL,2023-09-24 16:05:00-04:00,Seattle Seahawks,Carolina Panthers,DraftKings,totals,2023-09-19 15:33:38-04:00
+Arizona Cardinals,-110,12.0,NFL,2023-09-24 16:25:00-04:00,Arizona Cardinals,Dallas Cowboys,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Dallas Cowboys,-110,-12.0,NFL,2023-09-24 16:25:00-04:00,Arizona Cardinals,Dallas Cowboys,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-108,43.5,NFL,2023-09-24 16:25:00-04:00,Arizona Cardinals,Dallas Cowboys,DraftKings,totals,2023-09-19 15:33:38-04:00
+Chicago Bears,-108,12.5,NFL,2023-09-24 16:25:00-04:00,Kansas City Chiefs,Chicago Bears,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Kansas City Chiefs,-112,-12.5,NFL,2023-09-24 16:25:00-04:00,Kansas City Chiefs,Chicago Bears,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-112,47.5,NFL,2023-09-24 16:25:00-04:00,Kansas City Chiefs,Chicago Bears,DraftKings,totals,2023-09-19 15:33:38-04:00
+Las Vegas Raiders,-112,-1.5,NFL,2023-09-24 20:20:00-04:00,Las Vegas Raiders,Pittsburgh Steelers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Pittsburgh Steelers,-108,1.5,NFL,2023-09-24 20:20:00-04:00,Las Vegas Raiders,Pittsburgh Steelers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-108,43.5,NFL,2023-09-24 20:20:00-04:00,Las Vegas Raiders,Pittsburgh Steelers,DraftKings,totals,2023-09-19 15:33:38-04:00
+Philadelphia Eagles,-110,-5.0,NFL,2023-09-25 19:15:00-04:00,Tampa Bay Buccaneers,Philadelphia Eagles,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Tampa Bay Buccaneers,-110,5.0,NFL,2023-09-25 19:15:00-04:00,Tampa Bay Buccaneers,Philadelphia Eagles,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-112,45.5,NFL,2023-09-25 19:15:00-04:00,Tampa Bay Buccaneers,Philadelphia Eagles,DraftKings,totals,2023-09-19 15:33:38-04:00
+Cincinnati Bengals,-108,-2.0,NFL,2023-09-25 20:15:00-04:00,Cincinnati Bengals,Los Angeles Rams,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Los Angeles Rams,-112,2.0,NFL,2023-09-25 20:15:00-04:00,Cincinnati Bengals,Los Angeles Rams,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,43.5,NFL,2023-09-25 20:15:00-04:00,Cincinnati Bengals,Los Angeles Rams,DraftKings,totals,2023-09-19 15:33:38-04:00
+Detroit Lions,-110,1.5,NFL,2023-09-28 20:16:00-04:00,Green Bay Packers,Detroit Lions,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Green Bay Packers,-110,-1.5,NFL,2023-09-28 20:16:00-04:00,Green Bay Packers,Detroit Lions,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,46.5,NFL,2023-09-28 20:16:00-04:00,Green Bay Packers,Detroit Lions,DraftKings,totals,2023-09-19 15:33:38-04:00
+Atlanta Falcons,-110,3.0,NFL,2023-10-01 09:31:00-04:00,Jacksonville Jaguars,Atlanta Falcons,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Jacksonville Jaguars,-110,-3.0,NFL,2023-10-01 09:31:00-04:00,Jacksonville Jaguars,Atlanta Falcons,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,45.5,NFL,2023-10-01 09:31:00-04:00,Jacksonville Jaguars,Atlanta Falcons,DraftKings,totals,2023-09-19 15:33:38-04:00
+Baltimore Ravens,-110,-1.5,NFL,2023-10-01 13:01:00-04:00,Cleveland Browns,Baltimore Ravens,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Cleveland Browns,-110,1.5,NFL,2023-10-01 13:01:00-04:00,Cleveland Browns,Baltimore Ravens,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,44.0,NFL,2023-10-01 13:01:00-04:00,Cleveland Browns,Baltimore Ravens,DraftKings,totals,2023-09-19 15:33:38-04:00
+Buffalo Bills,-110,-3.5,NFL,2023-10-01 13:01:00-04:00,Buffalo Bills,Miami Dolphins,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Miami Dolphins,-110,3.5,NFL,2023-10-01 13:01:00-04:00,Buffalo Bills,Miami Dolphins,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,49.5,NFL,2023-10-01 13:01:00-04:00,Buffalo Bills,Miami Dolphins,DraftKings,totals,2023-09-19 15:33:38-04:00
+Carolina Panthers,-110,2.5,NFL,2023-10-01 13:01:00-04:00,Carolina Panthers,Minnesota Vikings,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Minnesota Vikings,-110,-2.5,NFL,2023-10-01 13:01:00-04:00,Carolina Panthers,Minnesota Vikings,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,44.5,NFL,2023-10-01 13:01:00-04:00,Carolina Panthers,Minnesota Vikings,DraftKings,totals,2023-09-19 15:33:38-04:00
+Chicago Bears,-110,1.5,NFL,2023-10-01 13:01:00-04:00,Chicago Bears,Denver Broncos,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Denver Broncos,-110,-1.5,NFL,2023-10-01 13:01:00-04:00,Chicago Bears,Denver Broncos,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,44.5,NFL,2023-10-01 13:01:00-04:00,Chicago Bears,Denver Broncos,DraftKings,totals,2023-09-19 15:33:38-04:00
+Cincinnati Bengals,-110,-1.5,NFL,2023-10-01 13:01:00-04:00,Tennessee Titans,Cincinnati Bengals,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Tennessee Titans,-110,1.5,NFL,2023-10-01 13:01:00-04:00,Tennessee Titans,Cincinnati Bengals,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,44.5,NFL,2023-10-01 13:01:00-04:00,Tennessee Titans,Cincinnati Bengals,DraftKings,totals,2023-09-19 15:33:38-04:00
+Houston Texans,-110,4.5,NFL,2023-10-01 13:01:00-04:00,Houston Texans,Pittsburgh Steelers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Pittsburgh Steelers,-110,-4.5,NFL,2023-10-01 13:01:00-04:00,Houston Texans,Pittsburgh Steelers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,40.5,NFL,2023-10-01 13:01:00-04:00,Houston Texans,Pittsburgh Steelers,DraftKings,totals,2023-09-19 15:33:38-04:00
+Indianapolis Colts,-110,1.5,NFL,2023-10-01 13:01:00-04:00,Indianapolis Colts,Los Angeles Rams,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Los Angeles Rams,-110,-1.5,NFL,2023-10-01 13:01:00-04:00,Indianapolis Colts,Los Angeles Rams,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,45.5,NFL,2023-10-01 13:01:00-04:00,Indianapolis Colts,Los Angeles Rams,DraftKings,totals,2023-09-19 15:33:38-04:00
+New Orleans Saints,-110,-3.5,NFL,2023-10-01 13:01:00-04:00,New Orleans Saints,Tampa Bay Buccaneers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Tampa Bay Buccaneers,-110,3.5,NFL,2023-10-01 13:01:00-04:00,New Orleans Saints,Tampa Bay Buccaneers,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,40.5,NFL,2023-10-01 13:01:00-04:00,New Orleans Saints,Tampa Bay Buccaneers,DraftKings,totals,2023-09-19 15:33:38-04:00
+Philadelphia Eagles,-110,-7.5,NFL,2023-10-01 13:01:00-04:00,Philadelphia Eagles,Washington Commanders,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Washington Commanders,-110,7.5,NFL,2023-10-01 13:01:00-04:00,Philadelphia Eagles,Washington Commanders,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,45.0,NFL,2023-10-01 13:01:00-04:00,Philadelphia Eagles,Washington Commanders,DraftKings,totals,2023-09-19 15:33:38-04:00
+Las Vegas Raiders,-110,4.5,NFL,2023-10-01 16:06:00-04:00,Los Angeles Chargers,Las Vegas Raiders,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Los Angeles Chargers,-110,-4.5,NFL,2023-10-01 16:06:00-04:00,Los Angeles Chargers,Las Vegas Raiders,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,49.5,NFL,2023-10-01 16:06:00-04:00,Los Angeles Chargers,Las Vegas Raiders,DraftKings,totals,2023-09-19 15:33:38-04:00
+Arizona Cardinals,-110,14.0,NFL,2023-10-01 16:26:00-04:00,San Francisco 49ers,Arizona Cardinals,DraftKings,spreads,2023-09-19 15:33:38-04:00
+San Francisco 49ers,-110,-14.0,NFL,2023-10-01 16:26:00-04:00,San Francisco 49ers,Arizona Cardinals,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,41.0,NFL,2023-10-01 16:26:00-04:00,San Francisco 49ers,Arizona Cardinals,DraftKings,totals,2023-09-19 15:33:38-04:00
+Dallas Cowboys,-115,-7.5,NFL,2023-10-01 16:26:00-04:00,Dallas Cowboys,New England Patriots,DraftKings,spreads,2023-09-19 15:33:38-04:00
+New England Patriots,-105,7.5,NFL,2023-10-01 16:26:00-04:00,Dallas Cowboys,New England Patriots,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,42.0,NFL,2023-10-01 16:26:00-04:00,Dallas Cowboys,New England Patriots,DraftKings,totals,2023-09-19 15:33:38-04:00
+Kansas City Chiefs,-110,-7.0,NFL,2023-10-01 20:21:00-04:00,New York Jets,Kansas City Chiefs,DraftKings,spreads,2023-09-19 15:33:38-04:00
+New York Jets,-110,7.0,NFL,2023-10-01 20:21:00-04:00,New York Jets,Kansas City Chiefs,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,45.0,NFL,2023-10-01 20:21:00-04:00,New York Jets,Kansas City Chiefs,DraftKings,totals,2023-09-19 15:33:38-04:00
+New York Giants,-110,1.0,NFL,2023-10-02 20:16:00-04:00,New York Giants,Seattle Seahawks,DraftKings,spreads,2023-09-19 15:33:38-04:00
+Seattle Seahawks,-110,-1.0,NFL,2023-10-02 20:16:00-04:00,New York Giants,Seattle Seahawks,DraftKings,spreads,2023-09-19 15:33:38-04:00
+O/U,-110,45.0,NFL,2023-10-02 20:16:00-04:00,New York Giants,Seattle Seahawks,DraftKings,totals,2023-09-19 15:33:38-04:00
