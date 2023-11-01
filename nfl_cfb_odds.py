@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import os
 import pandas as pd
 from datetime import date
+from datetime import timedelta
 from dateutil.parser import parse
 from dateutil import tz
 
@@ -44,6 +45,7 @@ def make_table(response)-> pd.DataFrame:
     x['bookmakers.markets.last_update'] = x['bookmakers.markets.last_update'].apply(func = lambda x: convert_timezone(x))
     x = x.loc[(x['Line']!='Under')]
     dates = x.loc[x['Line']=='Over']['Time_of_Kickoff'].unique()
+    dates = date_range(dates)
     x = x.loc[x['Time_of_Kickoff'].isin(dates)]
     x.replace(to_replace='Over',value='O/U',inplace=True)
     return x
@@ -56,6 +58,13 @@ def convert_timezone(x):
     utc = utc.replace(tzinfo=from_zone)
     utc = utc.astimezone(to_zone)
     return utc
+
+def date_range(dates):
+    new_dates = []
+    for d in dates:
+        if d.date() < (date.today() + timedelta(weeks=1)):
+            new_dates.append(d)
+    return new_dates
 
 def main():
     
